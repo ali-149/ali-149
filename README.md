@@ -9,9 +9,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=firefox&logoColor=white)](https://mali149.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923077078771-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923077078771)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mali-149&label=Profile%20Views&color=4285F4&style=flat-square)
-![Followers](https://img.shields.io/github/followers/mali-149?label=Followers&style=flat-square&color=0F3460)
-![Stars](https://img.shields.io/github/stars/mali-149?label=Stars&style=flat-square&color=4285F4)
+![Profile Views](https://komarev.com/ghpvc/?username=ali-149&label=Profile%20Views&color=4285F4&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ali-149?label=Followers&style=flat-square&color=0F3460)
+![Stars](https://img.shields.io/github/stars/ali-149?label=Stars&style=flat-square&color=4285F4)
 
 </div>
 
@@ -117,10 +117,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mali-149&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mali-149&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ali-149&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-149&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=mali-149&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=ali-149&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 

@@ -35,7 +35,7 @@
 
 ### 🎯 What I Do
 
-- 🌐 **Web Apps**: React.js, Next.js, Node.js, NestJS
+- 🌐 **Web Apps**: React.js, Next.js, Node.js, Nest.js, Django, Flask, .Net,
 - 📱 **Mobile Apps**: Flutter, React Native, Ionic
 - 🤖 **AI Solutions**: RAG pipelines, LLM integrations, Text-to-SQL
 - 🗄️ **Databases**: MongoDB, MySQL, PostgreSQL, SQLite, Firebase
